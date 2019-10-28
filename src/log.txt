@@ -1,0 +1,89 @@
+commit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Sun Dec 9 23:49:31 2018 -0500
+
+    Fixed a bug in PlaceGUI
+
+commit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Sun Dec 9 22:49:26 2018 -0500
+
+    Improved commenting
+
+commit ca82a6dff817ec66f44342007202690a93763949
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Sun Dec 9 19:11:56 2018 -0500
+
+    Overall touchups
+
+commit 31ea71a8c1a1d9de629344f89e3d264d9de3a877
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Fri Dec 8 21:16:48 2018 -0500
+
+    Completion of PlaceServer
+
+commit 01c6ae0eb2dace92d67fc14960d0e859d096fdb1
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Wed Dec 5 19:38:02 2018 -0500
+
+    Completion of PlaceServerClientThread class
+
+commit c9bf9d780c0c9bec6a411d5bbdb0e56b4ee85a32
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Wed Dec 5 18:27:59 2018 -0500
+
+    Completion of NetworkServer class
+
+commit 3115c4bfb03e04ecb08f49cccba00bbbec990694
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Fri Nov 30 20:15:04 2018 -0500
+
+    Beginning of PlaceServer class & PlaceServerClientThread
+	
+commit 31ea71a8c1a1d9de629344f89e3d264d9de3a877
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Fri Nov 30 19:41:58 2018 -0500
+
+    Beginning of NetworkServer class
+
+commit 01c6ae0eb2dace92d67fc14960d0e859d096fdb1
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Fri Nov 30 01:44:39 2018 -0500
+
+    Completion of PlacePTUI and ConsoleApplication
+
+commit c9bf9d780c0c9bec6a411d5bbdb0e56b4ee85a32
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Fri Nov 30 01:28:47 2018 -0500
+
+    Completion of NetworkClient
+
+commit 3115c4bfb03e04ecb08f49cccba00bbbec990694
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Fri Nov 30 00:03:57 2018 -0500
+
+    Beginning of NetworkClient
+
+commit 58668bcb167c4b982b9add788af1c2e02fecb90e
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Thu Nov 29 23:36:28 2018 -0500
+
+    Beginning of ConsoleApplication and PlacePTUI
+
+commit d99a51b88fee546cff8f5f408617fb59be8b6441
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Wed Nov 28 23:01:56 2018 -0500
+
+    Beginning of PlaceGUI
+
+commit 315adcad4851b2b6dda16318a5359f1b9ff30f79
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Wed Nov 28 18:30:44 2018 -0500
+
+    Creation of all files to match that of the online example given.
+
+commit 5810b258581ae5e2160152251b6a7b99e2ae4d95
+Author: Logan Pelletier <lpp2901@rit.edu>
+Date:   Wed Nov 28 18:21:11 2018 -0500
+
+    Beginning of Project, copied code from offline.
